@@ -198,10 +198,10 @@ Algumas evoluções que podem ser implementadas futuramente:
 
 ## 👤 Autor
 
-Feito por **[seu nome]** — sinta-se à vontade para entrar em contato!
+Feito por **[Diogo Mendes]** — sinta-se à vontade para entrar em contato!
 
-[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-181717?style=flat-square&logo=github)](https://github.com/dbernie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu--perfil-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/dbernie)
+[![GitHub](https://img.shields.io/badge/GitHub181717?style=flat-square&logo=github)](https://github.com/dbernie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/dbernie)
 
 ---
 
