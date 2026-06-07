@@ -5,7 +5,6 @@
 **Conversor de escalas termométricas via terminal, desenvolvido em Python.**
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![License](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 ![Terminal](https://img.shields.io/badge/Interface-Terminal-black?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
@@ -30,7 +29,6 @@
 - [Conceitos aplicados](#-conceitos-aplicados)
 - [Possíveis melhorias](#-possíveis-melhorias)
 - [Autor](#-autor)
-- [Licença](#-licença)
 
 ---
 
@@ -198,16 +196,10 @@ Algumas evoluções que podem ser implementadas futuramente:
 
 ## 👤 Autor
 
-Feito por **[Diogo Mendes]** — sinta-se à vontade para entrar em contato!
+Feito por **Diogo Mendes** — sinta-se à vontade para entrar em contato!
 
-[![GitHub](https://img.shields.io/badge/GitHub181717?style=flat-square&logo=github)](https://github.com/dbernie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/dbernie)
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a **Licença MIT** — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/dbernie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/dbernie)
 
 ---
 
