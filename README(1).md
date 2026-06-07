@@ -200,8 +200,8 @@ Algumas evoluções que podem ser implementadas futuramente:
 
 Feito por **[seu nome]** — sinta-se à vontade para entrar em contato!
 
-[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-181717?style=flat-square&logo=github)](https://github.com/seu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu--perfil-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-181717?style=flat-square&logo=github)](https://github.com/dbernie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu--perfil-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/dbernie)
 
 ---
 
