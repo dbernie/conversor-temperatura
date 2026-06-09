@@ -186,7 +186,7 @@ Algumas evoluções que podem ser implementadas futuramente:
 
 - [ ] Validação de entrada (tratar valores não numéricos ou temperaturas abaixo do zero absoluto)
 - [ ] Suporte à escala **Rankine**
-- [ ] Modo de conversão em lote (múltiplas temperaturas de uma vez)
+- [x] Modo de conversão em lote (múltiplas temperaturas de uma vez)
 - [ ] Interface gráfica com `tkinter` ou `customtkinter`
 - [ ] Versão web com `Flask` ou `FastAPI`
 - [ ] Testes automatizados com `unittest` ou `pytest`
